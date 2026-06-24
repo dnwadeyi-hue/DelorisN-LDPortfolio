@@ -2,70 +2,70 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5kT9M1H9gvc":
+      case "6MKRLBG2o4S":
         Script1();
         break;
-      case "6A5JeZACf6p":
+      case "6BUj44uezAU":
         Script2();
         break;
-      case "6gbNo8B1eC7":
+      case "6IMX3i9rUfL":
         Script3();
         break;
-      case "6Q7JQx2CAIK":
+      case "5gC56le2Kxv":
         Script4();
         break;
-      case "5lHlupf5maY":
+      case "6PLKWubSMko":
         Script5();
         break;
-      case "5zr3rAlw1IO":
+      case "6ZAnhnJo19s":
         Script6();
         break;
-      case "6pE6rDNlGl1":
+      case "5eR63BO5JP9":
         Script7();
         break;
-      case "6LkcIraApDB":
+      case "5tWEPyTXrfC":
         Script8();
         break;
-      case "61ZWU8nXROH":
+      case "5yttUptgqUC":
         Script9();
         break;
-      case "68yXQzctQcf":
+      case "6XokoiMUNNC":
         Script10();
         break;
-      case "6ZGkrFc7etE":
+      case "5amIILm9kxo":
         Script11();
         break;
-      case "5zDsRbyQEuv":
+      case "6KKK9JY47VH":
         Script12();
         break;
-      case "5gF96H2DeA4":
+      case "6cG4ov7ncMD":
         Script13();
         break;
-      case "5osGbKr2wG9":
+      case "5q8Gz9NOh6T":
         Script14();
         break;
-      case "6EIUUblIYhh":
+      case "6hkEdTaiBXq":
         Script15();
         break;
-      case "6lMmoqns3XL":
+      case "6p9G6gZYlWx":
         Script16();
         break;
-      case "5bXzheWBUaZ":
+      case "5Vdvzu5PrQc":
         Script17();
         break;
-      case "6lCoz9bU4TI":
+      case "6r5wKtFXwTZ":
         Script18();
         break;
-      case "6fCaJHNtyGi":
+      case "6GtDRtW8I8M":
         Script19();
         break;
-      case "6qPSY2Lg3bA":
+      case "6YtLLVeRQLI":
         Script20();
         break;
-      case "5iRYdHrkxTJ":
+      case "5tQp5JgfbW5":
         Script21();
         break;
-      case "5XCauFvtDQ5":
+      case "5v3sFdKGLlp":
         Script22();
         break;
   }
@@ -383,6 +383,40 @@ target.animate(
 
 window.Script17 = function()
 {
+  const target = object('6EBOWW0uW4Z');
+const duration = 1500;
+const easing = 'ease-out';
+const id = '6XVa2jQdp1q';
+const floatAmount = 5;
+player.addForTriggers(
+id,
+target.animate(
+[ {translate: `0 -${floatAmount}px` } ]
+,
+  { fill: 'forwards', duration, easing }
+)
+);
+}
+
+window.Script18 = function()
+{
+  const target = object('6X9t3hJ4952');
+const duration = 1500;
+const easing = 'ease-out';
+const id = '5dTMAgQ16Um';
+const floatAmount = 5;
+player.addForTriggers(
+id,
+target.animate(
+[ {translate: `0 -${floatAmount}px` } ]
+,
+  { fill: 'forwards', duration, easing }
+)
+);
+}
+
+window.Script19 = function()
+{
   const target = object('5aztmsFjGA5');
 const duration = 1500;
 const easing = 'ease-out';
@@ -398,7 +432,7 @@ target.animate(
 );
 }
 
-window.Script18 = function()
+window.Script20 = function()
 {
   const target = object('6gHZAh6phOH');
 const duration = 1500;
@@ -415,7 +449,7 @@ target.animate(
 );
 }
 
-window.Script19 = function()
+window.Script21 = function()
 {
   const target = object('6EMXRnrbL0C');
 const duration = 1500;
@@ -432,46 +466,12 @@ target.animate(
 );
 }
 
-window.Script20 = function()
+window.Script22 = function()
 {
   const target = object('5pA4Xfp7r6e');
 const duration = 1500;
 const easing = 'ease-out';
 const id = '5bkqYjijJ1v';
-const floatAmount = 5;
-player.addForTriggers(
-id,
-target.animate(
-[ {translate: `0 -${floatAmount}px` } ]
-,
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script21 = function()
-{
-  const target = object('6EBOWW0uW4Z');
-const duration = 1500;
-const easing = 'ease-out';
-const id = '6XVa2jQdp1q';
-const floatAmount = 5;
-player.addForTriggers(
-id,
-target.animate(
-[ {translate: `0 -${floatAmount}px` } ]
-,
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script22 = function()
-{
-  const target = object('6X9t3hJ4952');
-const duration = 1500;
-const easing = 'ease-out';
-const id = '5dTMAgQ16Um';
 const floatAmount = 5;
 player.addForTriggers(
 id,

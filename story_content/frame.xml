@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="DelorisN. L&amp;amp;D Portfolio" />
+              <option name="title_text" value="DelorisN. Lead L&amp;amp;D Portfolio" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1405,164 +1405,164 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxabnsnfns00011100101">
-      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
-      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
-      <string id="acc_correct_choice">%answer% (correct choice)</string>
-      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
-      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
-      <string id="acc_locked">locked</string>
-      <string id="acc_modern_video_captions">video captions</string>
-      <string id="acc_modern_video_fullscreen">full-screen video</string>
-      <string id="acc_modern_video_mute">mute video</string>
-      <string id="acc_modern_video_pause">pause video</string>
-      <string id="acc_modern_video_pip">picture-in-picture</string>
-      <string id="acc_modern_video_play">play video</string>
-      <string id="acc_modern_video_playback_speed">playback speed</string>
-      <string id="acc_modern_video_settings">video settings</string>
-      <string id="acc_modern_video_transcript">Transcripts</string>
-      <string id="acc_modern_video_volume">video volume</string>
-      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
-      <string id="acc_next">Next (Ctrl+Alt+Period)</string>
-      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
-      <string id="acc_ordinal_eighth">eighth</string>
-      <string id="acc_ordinal_fifth">fifth</string>
-      <string id="acc_ordinal_first">first</string>
-      <string id="acc_ordinal_fourth">fourth</string>
-      <string id="acc_ordinal_ninth">ninth</string>
-      <string id="acc_ordinal_second">second</string>
-      <string id="acc_ordinal_seventh">seventh</string>
-      <string id="acc_ordinal_sixth">sixth</string>
-      <string id="acc_ordinal_tenth">tenth</string>
-      <string id="acc_ordinal_third">third</string>
-      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
-      <string id="acc_play">Play (Ctrl+Alt+P)</string>
-      <string id="acc_playback_speed">Playback speed</string>
-      <string id="acc_played">%time% played</string>
-      <string id="acc_previous">Previous (Ctrl+Alt+Comma)</string>
-      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
-      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
-      <string id="acc_search_input">search</string>
-      <string id="acc_search_result_status">%count% result found for %term%</string>
-      <string id="acc_search_results_status">%count% results found for %term%</string>
-      <string id="acc_select_an_option">Select an option</string>
-      <string id="acc_settings">Settings</string>
-      <string id="acc_skipnavigation">Back to top</string>
-      <string id="acc_slide_progress">slide progress</string>
-      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
-      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
-      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
-      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
-      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
-      <string id="acc_video_transcript_list">Transcript</string>
-      <string id="acc_visited">visited</string>
-      <string id="acc_window_close">Close</string>
-      <string id="acc_window_move">Move window</string>
-      <string id="acc_window_options">Options</string>
-      <string id="acc_window_resize">Resize window</string>
-      <string id="accessible_text">Accessible text</string>
-      <string id="acctext_shortcut">Toggle accessible text</string>
-      <string id="action">Action</string>
-      <string id="alt_key">Alt</string>
-      <string id="background_audio">Background audio</string>
-      <string id="background_audio_shortcut">Toggle background audio</string>
-      <string id="clear">Clear and return to menu</string>
-      <string id="close">Close</string>
-      <string id="closed_captions">Captions</string>
-      <string id="closedcaptions_shortcut">Toggle captions</string>
-      <string id="comma_key">Comma</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="ctrl_key">Ctrl</string>
-      <string id="desktop_start">Start Course</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
-      <string id="filter">Filter</string>
-      <string id="fullscreen_shortcut">Toggle full-screen</string>
-      <string id="glossary">Glossary</string>
-      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
-      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
-      <string id="mobile_start">Start Course</string>
-      <string id="modern_video_captions_label">Captions</string>
-      <string id="modern_video_captions_off">Hide</string>
-      <string id="modern_video_captions_on">Show</string>
-      <string id="modern_video_normal_speed">Normal</string>
-      <string id="modern_video_playback_settings">Video Playback Settings</string>
-      <string id="modern_video_playback_speed_title">Playback Speed</string>
-      <string id="modern_video_settings_close">close video settings</string>
-      <string id="mute_shortcut">Mute / unmute</string>
-      <string id="next">NEXT</string>
-      <string id="next_shortcut">Next</string>
-      <string id="outline">Menu</string>
-      <string id="outline_container">Menu</string>
-      <string id="period_key">Period</string>
-      <string id="playback_speed_normal">Normal</string>
-      <string id="playback_speed_title">Playback Speed</string>
-      <string id="playpause_shortcut">Play / pause</string>
-      <string id="prev">PREV</string>
-      <string id="previous_shortcut">Previous</string>
-      <string id="progress_hour">hour</string>
-      <string id="progress_hours">hours</string>
-      <string id="progress_minute">minute</string>
-      <string id="progress_minutes">minutes</string>
-      <string id="progress_second">second</string>
-      <string id="progress_seconds">seconds</string>
-      <string id="question_mark_key">Question mark</string>
-      <string id="replay_shortcut">Replay</string>
-      <string id="resources">Resources</string>
-      <string id="restart">Restart</string>
-      <string id="resume">Resume</string>
-      <string id="search">Search:</string>
-      <string id="search_in">Search in:</string>
-      <string id="search_results">Search Results</string>
-      <string id="search_toggle">Search</string>
-      <string id="shift_key">Shift</string>
-      <string id="shortcut">Shortcut</string>
-      <string id="shortcuthelp">List keyboard shortcuts</string>
-      <string id="sidebar_toggle">Sidebar Toggle</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="streaming_video_local_playback_learn_more">Learn More</string>
-      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
-      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
-      <string id="submit">SUBMIT</string>
-      <string id="submit_shortcut">Submit</string>
-      <string id="terms">Terms</string>
+      <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
       <string id="three_image_camera_left">camera moved left</string>
       <string id="three_image_camera_right">camera moved right</string>
       <string id="three_image_camera_up">camera moved up</string>
-      <string id="three_image_count_of_total">%count% of %total%</string>
-      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
-      <string id="three_image_hotspot">hotspot</string>
-      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
-      <string id="three_image_interaction">360 degree image interaction</string>
       <string id="three_image_interaction_free">free exploration mode</string>
       <string id="three_image_interaction_guided">guided tour mode</string>
-      <string id="three_image_interaction_next">next</string>
-      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
       <string id="three_image_label">label</string>
       <string id="three_image_marker">marker</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="three_image_interaction_next">next</string>
       <string id="three_image_pause_audio">pause audio</string>
       <string id="three_image_pause_video">pause video</string>
       <string id="three_image_play_audio">play audio</string>
       <string id="three_image_play_video">play video</string>
-      <string id="three_image_progress_audio">progress</string>
-      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
       <string id="three_image_tooltip">tooltip</string>
-      <string id="three_image_total_item">%total% item</string>
       <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
       <string id="three_image_video">video</string>
       <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="background_audio">Background audio</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Hide</string>
+      <string id="modern_video_captions_on">Show</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="closed_captions">Captions</string>
+      <string id="comma_key">Comma</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="next">NEXT</string>
+      <string id="prev">PREV</string>
+      <string id="submit">SUBMIT</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="continue">Continue</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous</string>
+      <string id="replay_shortcut">Replay</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen</string>
       <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="outline">Menu</string>
       <string id="transcript">Notes</string>
-      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="period_key">Period</string>
+      <string id="question_mark_key">Question mark</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="close">Close</string>
+      <string id="acc_select_an_option">Select an option</string>
+      <string id="acc_ordinal_eighth">eighth</string>
+      <string id="acc_ordinal_fifth">fifth</string>
+      <string id="acc_ordinal_first">first</string>
+      <string id="acc_ordinal_fourth">fourth</string>
+      <string id="acc_locked">locked</string>
+      <string id="outline_container">Menu</string>
+      <string id="acc_next">Next (Ctrl+Alt+Period)</string>
+      <string id="acc_ordinal_ninth">ninth</string>
+      <string id="acc_previous">Previous (Ctrl+Alt+Comma)</string>
+      <string id="acc_correct_choice">%answer% (correct choice)</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_search_result_status">%count% result found for %term%</string>
+      <string id="acc_search_results_status">%count% results found for %term%</string>
+      <string id="acc_ordinal_second">second</string>
+      <string id="acc_played">%time% played</string>
+      <string id="acc_ordinal_seventh">seventh</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_ordinal_sixth">sixth</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_ordinal_tenth">tenth</string>
+      <string id="acc_ordinal_third">third</string>
+      <string id="acc_visited">visited</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="search_in">Search in:</string>
+      <string id="filter">Filter</string>
+      <string id="search">Search:</string>
       <string id="transcript_chk">Notes</string>
-      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="search_results">Search Results</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
+      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
+      <string id="acc_play">Play (Ctrl+Alt+P)</string>
+      <string id="acc_playback_speed">Playback speed</string>
+      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
+      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
+      <string id="search_toggle">Search</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_video_transcript_list">Transcript</string>
       <string id="video_transcript_mobile_label">Transcript</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_modern_video_transcript">Transcripts</string>
+      <string id="acc_window_resize">Resize window</string>
       <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
       <string id="video_transcript_select_track">Select track</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
       <string id="video_transcript_title">Transcript</string>
-      <string id="zoom_to_fit">Zoom to fit</string>
-      <string id="continue">Continue</string>
+      <string id="acc_window_options">Options</string>
       <string id="invalid_prompt_button">OK</string>
       <string id="invalid_prompt_message">You must complete the question before submitting.</string>
       <string id="invalid_prompt_title">Invalid Answer</string>
@@ -1586,88 +1586,88 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5agJ2mzDaVs" displaytext="Welcome/Portfolio Dashboard" expand="true" type="slide">
+        <slidelink slideid="_player.5agJ2mzDaVs" displaytext="Welcome/Portfolio Dashboard" expand="true" type="slide" translationId="62l7oZNIvhE">
           <links>
-            <slidelink slideid="_player.5agJ2mzDaVs.5rdxJPJKv4d" displaytext="Deloris Nwadeyi" expand="false" type="slide" />
-            <slidelink slideid="_player.5agJ2mzDaVs.5pZ3nAClEbn" displaytext="Dashboard" expand="false" type="slide" />
+            <slidelink slideid="_player.5agJ2mzDaVs.5rdxJPJKv4d" displaytext="Intro Slide" expand="false" type="slide" translationId="5s4EigLkvF8" />
+            <slidelink slideid="_player.5agJ2mzDaVs.5pZ3nAClEbn" displaytext="Dashboard" expand="false" type="slide" translationId="5voFvmTvPm9" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6JlxaAmryk0" displaytext="Experience Timeline" expand="true" type="slide">
+        <slidelink slideid="_player.6JlxaAmryk0" displaytext="Experience Timeline" expand="true" type="slide" translationId="6V06W4Xqnio">
           <links>
-            <slidelink slideid="_player.6JlxaAmryk0.6297HECxofa" displaytext="Experience Timeline" expand="false" type="slide" />
+            <slidelink slideid="_player.6JlxaAmryk0.6297HECxofa" displaytext="Experience Timeline" expand="false" type="slide" translationId="62tIpsZ4YSZ" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6dff5T7pQde" displaytext="Credentials and Tools" expand="true" type="slide">
+        <slidelink slideid="_player.6dff5T7pQde" displaytext="Credentials and Tools" expand="true" type="slide" translationId="60gqn61jsk7">
           <links>
-            <slidelink slideid="_player.6dff5T7pQde.5ptVG6lXosM" displaytext="Credential_Dashboard" expand="false" type="slide" />
+            <slidelink slideid="_player.6dff5T7pQde.5ptVG6lXosM" displaytext="Credential_Dashboard" expand="false" type="slide" translationId="6OhjE2oeYy8" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6GcgFeANW42" displaytext="Learning Philosophy" expand="true" type="slide">
+        <slidelink slideid="_player.6GcgFeANW42" displaytext="Learning Philosophy" expand="true" type="slide" translationId="6PH0lXzA88e">
           <links>
-            <slidelink slideid="_player.6GcgFeANW42.6aUugMHmSlu" displaytext="My Learning Philosophy" expand="false" type="slide" />
+            <slidelink slideid="_player.6GcgFeANW42.6aUugMHmSlu" displaytext="My Learning Philosophy" expand="false" type="slide" translationId="6mOKmrnspfU" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5ZRgAWt2zns" displaytext="Artifact Gallery" expand="true" type="slide">
+        <slidelink slideid="_player.5ZRgAWt2zns" displaytext="Artifact Gallery" expand="true" type="slide" translationId="6RFAoOgY2pK">
           <links>
-            <slidelink slideid="_player.5ZRgAWt2zns.6jP3zdxAa8J" displaytext="Artifact Gallery Dashboard" expand="false" type="slide" />
+            <slidelink slideid="_player.5ZRgAWt2zns.6jP3zdxAa8J" displaytext="Artifact Gallery Dashboard" expand="false" type="slide" translationId="6jA4cG8Cv2Z" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6VvheySUcxy" displaytext="Artifact 1: Foundational Onboarding Kiosk Operations" expand="true" type="slide">
+        <slidelink slideid="_player.6VvheySUcxy" displaytext="Artifact 1: Foundational Onboarding Kiosk Operations" expand="true" type="slide" translationId="5dyqT0uou2K">
           <links>
-            <slidelink slideid="_player.6VvheySUcxy.6YK18eNSGx6" displaytext="Learning Dashboard" expand="false" type="slide" />
-            <slidelink slideid="_player.6VvheySUcxy.66YjZBbUWSf" displaytext="Ticket Cycle" expand="false" type="slide" />
-            <slidelink slideid="_player.6VvheySUcxy.6mmuOFQXS3q" displaytext="A kiosk is offline, but no physical damage has been confirmed. &#xA;&#xA;What should the support specialist do first?" expand="false" type="slide" />
-            <slidelink slideid="_player.6VvheySUcxy.6F5EDda8WYo" displaytext="A support specialist receives a ticket skating:  “ The kiosk isn’t working.”&#xA;&#xA;What is the BEST next step? " expand="false" type="slide" />
-            <slidelink slideid="_player.6VvheySUcxy.6C3m2n1WGgW" displaytext="Scenario:&#xA;&#xA; A support specialist receives the following kiosk issues.&#xD;Drag each issue to the support path that would be MOST appropriate." expand="false" type="slide" />
+            <slidelink slideid="_player.6VvheySUcxy.6YK18eNSGx6" displaytext="Learning Dashboard" expand="false" type="slide" translationId="61uoqkTApIX" />
+            <slidelink slideid="_player.6VvheySUcxy.66YjZBbUWSf" displaytext="Ticket Cycle" expand="false" type="slide" translationId="5uYHQcYBExe" />
+            <slidelink slideid="_player.6VvheySUcxy.6mmuOFQXS3q" displaytext="A kiosk is offline, but no physical damage has been confirmed.  What should the support specialist do first?" expand="false" type="slide" translationId="5uWbMbN4gZh" />
+            <slidelink slideid="_player.6VvheySUcxy.6F5EDda8WYo" displaytext="A support specialist receives a ticket skating:  “ The kiosk isn’t working.”  What is the BEST next step? " expand="false" type="slide" translationId="6BofXteeauy" />
+            <slidelink slideid="_player.6VvheySUcxy.6C3m2n1WGgW" displaytext="Scenario:   A support specialist receives the following kiosk issues.&#xD;Drag each issue to the support path that would be MOST appropriate." expand="false" type="slide" translationId="6bvwkNNhwMc" />
+            <slidelink slideid="_player.5kSQd4N586M" displaytext="Artifact 2: Learning Command Center" expand="false" type="slide" translationId="6CopkW82Vie">
+              <links>
+                <slidelink slideid="_player.5kSQd4N586M.6Rcj8BQSCbP" displaytext="Learning Impact Dashboard" expand="false" type="slide" translationId="66JckZnPX2b" />
+                <slidelink slideid="_player.5kSQd4N586M.69XlfxrnZ31" displaytext="ServiceNow-Inspired Ticket Workflow" expand="false" type="slide" translationId="6TSuha3Z3l6" />
+                <slidelink slideid="_player.5kSQd4N586M.6Cq8CkoJZSh" displaytext="Final Recommendation / Executive Summary" expand="false" type="slide" translationId="6W3bGOJAubZ" />
+              </links>
+            </slidelink>
           </links>
         </slidelink>
-        <slidelink slideid="_player.67hccWKxmHT" displaytext="Artiffact 2: MTSS Framework" expand="true" type="slide">
+        <slidelink slideid="_player.67hccWKxmHT" displaytext="Artiffact 3: MTSS Framework" expand="true" type="slide" translationId="5avWg5gSBOK">
           <links>
-            <slidelink slideid="_player.67hccWKxmHT.6E9lqb0n5Ls" displaytext="MTSS Intro" expand="false" type="slide" />
-            <slidelink slideid="_player.67hccWKxmHT.629fK5UKWGc" displaytext="MTSS Tiered Supports" expand="false" type="slide" />
-            <slidelink slideid="_player.67hccWKxmHT.6EBSe5PvWXZ" displaytext="Scenario:&#xA;&#xA;A student receives differentiated small-group reading instruction within the general education classroom. &#xA;&#xA;What MTSS Tier does this best represent? " expand="false" type="slide" />
-            <slidelink slideid="_player.67hccWKxmHT.6DbVVPcexzr" displaytext="Drag each intervention to the appropriate tier. " expand="false" type="slide" />
-            <slidelink slideid="_player.67hccWKxmHT.6MKNlh73qsh" displaytext="Maria has participated in a Tier 2 reading intervention for 10 weeks.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Progress monitoring data shows little growth despite consistent attendance and intervention fidelity.&#xA;&#xA;What should the MTSS team consider next?" expand="false" type="slide" />
+            <slidelink slideid="_player.67hccWKxmHT.6E9lqb0n5Ls" displaytext="MTSS Intro" expand="false" type="slide" translationId="6HjTncA2xzj" />
+            <slidelink slideid="_player.67hccWKxmHT.629fK5UKWGc" displaytext="MTSS Tiered Supports" expand="false" type="slide" translationId="6f9d4t5QiS0" />
+            <slidelink slideid="_player.67hccWKxmHT.6EBSe5PvWXZ" displaytext="Scenario:  A student receives differentiated small-group reading instruction within the general education classroom.  What MTSS Tier does this best represent? " expand="false" type="slide" translationId="6Ih2YAlKqZz" />
+            <slidelink slideid="_player.67hccWKxmHT.6DbVVPcexzr" displaytext="Drag each intervention to the appropriate tier. " expand="false" type="slide" translationId="5kaQ4p7JYCo" />
+            <slidelink slideid="_player.67hccWKxmHT.6MKNlh73qsh" displaytext="Maria has participated in a Tier 2 reading intervention for 10 weeks.      Progress monitoring data shows little growth despite consistent attendance and intervention fidelity.  What should the MTSS team consider next?" expand="false" type="slide" translationId="6W2fs1yo1QG" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5ejm326s8gv" displaytext="Artifact 3: Data Collection" expand="true" type="slide">
+        <slidelink slideid="_player.5ejm326s8gv" displaytext="Artifact 4: Data Collection" expand="true" type="slide" translationId="6h4NKahK1gw">
           <links>
-            <slidelink slideid="_player.5ejm326s8gv.6UeutthK03X" displaytext="Data Categories" expand="false" type="slide" />
-            <slidelink slideid="_player.5ejm326s8gv.5uVLQ2ePmmK" displaytext="Data Collection Tools" expand="false" type="slide" />
-            <slidelink slideid="_player.5ejm326s8gv.6Tz5sV0pY2u" displaytext="Match the performance issue to the best data collection method. " expand="false" type="slide" />
-            <slidelink slideid="_player.5ejm326s8gv.6VlXkUcllrp" displaytext="Choose the Best Data Collection Tool&#xA;&#xA;Scenario: A special education teacher wants to determine how many times a student leaves their seat during a 45-minute math lesson.&#xA;&#xA;Which data collection tool would provide the most useful information?" expand="false" type="slide" />
-            <slidelink slideid="_player.5ejm326s8gv.6TNo2cnKMem" displaytext="Instructions&#xA;&#xA;Drag each scenario into the most appropriate data collection category." expand="false" type="slide" />
-            <slidelink slideid="_player.5ejm326s8gv.6WzOHosbGEx" displaytext="Scenario&#xA;&#xA;A student takes 2 minutes to start assignments. She leaves their seat 8 times per lesson and becomes disruptive during writing activities. When completing daily hygiene routines, she completes only 4 of 7 handwashing steps independently.&#xA;&#xA;Select ALL data collection tools that were used to gather this information. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ejm326s8gv.6UeutthK03X" displaytext="Data Categories" expand="false" type="slide" translationId="60vL81aXz6Y" />
+            <slidelink slideid="_player.5ejm326s8gv.5uVLQ2ePmmK" displaytext="Data Collection Tools" expand="false" type="slide" translationId="6YujJMCDMDq" />
+            <slidelink slideid="_player.5ejm326s8gv.6Tz5sV0pY2u" displaytext="Match the performance issue to the best data collection method. " expand="false" type="slide" translationId="5uASIQ7S3Q8" />
+            <slidelink slideid="_player.5ejm326s8gv.6VlXkUcllrp" displaytext="Choose the Best Data Collection Tool  Scenario: A special education teacher wants to determine how many times a student leaves their seat during a 45-minute math lesson.  Which data collection tool would provide the most useful information?" expand="false" type="slide" translationId="6JdbtqghT6i" />
+            <slidelink slideid="_player.5ejm326s8gv.6TNo2cnKMem" displaytext="Instructions  Drag each scenario into the most appropriate data collection category." expand="false" type="slide" translationId="6gCi4j3b8es" />
+            <slidelink slideid="_player.5ejm326s8gv.6WzOHosbGEx" displaytext="Scenario  A student takes 2 minutes to start assignments. She leaves their seat 8 times per lesson and becomes disruptive during writing activities. When completing daily hygiene routines, she completes only 4 of 7 handwashing steps independently.  Select ALL data collection tools that were used to gather this information. " expand="false" type="slide" translationId="5fwsF93EkGu" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5jHVM1rGlzV" displaytext="Artifact 4: ECATS Process" expand="true" type="slide">
+        <slidelink slideid="_player.5jHVM1rGlzV" displaytext="Artifact 5: ECATS Process" expand="true" type="slide" translationId="6kDqY5CfIJ1">
           <links>
-            <slidelink slideid="_player.5jHVM1rGlzV.5pUguR3dXe2" displaytext="ECATS Dashboard" expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.6fmcMUYP8h7" displaytext="Process Map" expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.5ra0P49gQbb" displaytext="Case Study: John Smith&#xA;&#xA;&#xA;John has participated in interventions for 12 weeks based on his MTSS plan.&#xA;He is now currently at Tier 2, which is small group instruction in the general education classroom and after school tutoring.  The data indicates that he has made limited progress due to his classroom grades decreasing by 12 points.&#xA;His Winter Benchmark scores have remained the same since the Fall Assessment. &#xA;&#xA;What should the team do first? " expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.64xb921Eroh" displaytext="Performance Challenge: Make a Decision&#xA;&#xA;During the evaluation process, the IEP acknowledged that John Smith failed his speech language screening. The Speech Pathologist is requesting for a Speech Evaluation. What should happen next? &#xA;&#xA;The IEP team should…&#xA;&#xA;&#xA;&#xA;&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.67azWS6bIF8" displaytext="Case Study: Conclusion	" expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.6gfvTIbd4sF" displaytext="Performance Challenge: Make a Decision&#xA;&#xA;Case study: The IEP team agreed to evaluate John Smith for the category of Specific Learning Disability. Based on the chart, what evaluation data must be collected? Select the icon to review the chart. " expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.6kYjGH58oXg" displaytext="Performance Challenge: Make a Decision&#xA;&#xA;Case study: The IEP team has agreed to proceed with an evaluation during the referral meeting.&#xA;&#xA;As the EC Case Manager, let’s explore what should happen next? " expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.6njUen7xbwD" displaytext="What is ECATS" expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.6BG0CFjz70L" displaytext="Match the step to the correct purpose" expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.5qCSuoYpAQ0" displaytext="PWN" expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.6hwbPM0JhNs" displaytext="When is a Prior Written Notice (PWN) required? " expand="false" type="slide" />
-            <slidelink slideid="_player.5jHVM1rGlzV.5X8JpaGlnyg" displaytext="Scenario: Below Grade Level " expand="false" type="slide" />
+            <slidelink slideid="_player.5jHVM1rGlzV.6njUen7xbwD" displaytext="What is ECATS" expand="false" type="slide" translationId="6W15e7NgW5H" />
+            <slidelink slideid="_player.5jHVM1rGlzV.5pUguR3dXe2" displaytext="ECATS Dashboard" expand="false" type="slide" translationId="6as6J6zsMYS" />
+            <slidelink slideid="_player.5jHVM1rGlzV.6BG0CFjz70L" displaytext="Match the step to the correct purpose" expand="false" type="slide" translationId="617mBkQJpYw" />
+            <slidelink slideid="_player.5jHVM1rGlzV.5qCSuoYpAQ0" displaytext="PWN" expand="false" type="slide" translationId="5kQWIeSiXKE" />
+            <slidelink slideid="_player.5jHVM1rGlzV.6hwbPM0JhNs" displaytext="When is a Prior Written Notice (PWN) required? " expand="false" type="slide" translationId="6YNV4UvZsYj" />
+            <slidelink slideid="_player.5jHVM1rGlzV.5X8JpaGlnyg" displaytext="Scenario: Below Grade Level " expand="false" type="slide" translationId="6Kf4eMSdOzX" />
+            <slidelink slideid="_player.5jHVM1rGlzV.6fmcMUYP8h7" displaytext="Process Map" expand="false" type="slide" translationId="6av9C4v5zmE" />
+            <slidelink slideid="_player.5jHVM1rGlzV.5ra0P49gQbb" displaytext="Case Study: John Smith   John has participated in interventions for 12 weeks based on his MTSS plan. He is now currently at Tier 2, which is small group instruction in the general education classroom and after school tutoring.  The data indicates that he has made limited progress due to his classroom grades decreasing by 12 points. His Winter Benchmark scores have remained the same since the Fall Assessment.  What should the team do first? " expand="false" type="slide" translationId="6BqX47WR16T" />
+            <slidelink slideid="_player.5jHVM1rGlzV.6gfvTIbd4sF" displaytext="Performance Challenge: Make a Decision  Case study: The IEP team agreed to evaluate John Smith for the category of Specific Learning Disability. Based on the chart, what evaluation data must be collected? Select the icon to review the chart. " expand="false" type="slide" translationId="5ZlbpoomOqS" />
+            <slidelink slideid="_player.5jHVM1rGlzV.6kYjGH58oXg" displaytext="Performance Challenge: Make a Decision  Case study: The IEP team has agreed to proceed with an evaluation during the referral meeting.  As the EC Case Manager, let’s explore what should happen next? " expand="false" type="slide" translationId="6jZYNHxvZOK" />
+            <slidelink slideid="_player.5jHVM1rGlzV.64xb921Eroh" displaytext="Performance Challenge: Make a Decision  During the evaluation process, the IEP acknowledged that John Smith failed his speech language screening. The Speech Pathologist is requesting for a Speech Evaluation. What should happen next?  The IEP team should…     " expand="false" type="slide" translationId="6PMJ6MI4R8u" />
+            <slidelink slideid="_player.5jHVM1rGlzV.67azWS6bIF8" displaytext="Case Study: Conclusion	" expand="false" type="slide" translationId="6bkNcEfAaRZ" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6hKHGqLjKbM" displaytext="Why This Career?" expand="true" type="slide">
+        <slidelink slideid="_player.6hKHGqLjKbM" displaytext="Why This Career?" expand="true" type="slide" translationId="6hGKjDu4dRl">
           <links>
-            <slidelink slideid="_player.6hKHGqLjKbM.5mxXNo6q2R6" displaytext="Let&amp;apos;s Connect " expand="false" type="slide" />
-            <slidelink slideid="_player.6hKHGqLjKbM.66VDUioqrp1" displaytext="Why Me? Why this role?" expand="false" type="slide" />
-            <slidelink slideid="_player.6hKHGqLjKbM.5bEGOlDLCWg" displaytext="Contact me" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5kSQd4N586M" displaytext="Artifact 5: Learning Command Center" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5kSQd4N586M.6Rcj8BQSCbP" displaytext="Learning Impact Dashboard" expand="false" type="slide" />
-            <slidelink slideid="_player.5kSQd4N586M.69XlfxrnZ31" displaytext="ServiceNow-Inspired Ticket Workflow" expand="false" type="slide" />
-            <slidelink slideid="_player.5kSQd4N586M.6Cq8CkoJZSh" displaytext="Final Recommendation / Executive Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.6hKHGqLjKbM.5mxXNo6q2R6" displaytext="Let&amp;apos;s Connect " expand="false" type="slide" translationId="5V97FcV3jSM" />
+            <slidelink slideid="_player.6hKHGqLjKbM.66VDUioqrp1" displaytext="Why Me? Why this role?" expand="false" type="slide" translationId="5kGEzVhmA0R" />
+            <slidelink slideid="_player.6hKHGqLjKbM.5bEGOlDLCWg" displaytext="Contact me" expand="false" type="slide" translationId="5kTG5FpcwKY" />
           </links>
         </slidelink>
       </links>
